@@ -878,6 +878,7 @@ address {
   .temoignages-container {
     grid-template-columns: 1fr; /* colonne unique seulement en portrait */
   }
+}
 
   footer {
     text-align: center;
