@@ -894,6 +894,10 @@ address {
     font-size: 0.9em;
   }
 
+  .footer {
+    text-align: center;
+  }
+
   footer img {
     vertical-align: middle; /* ou baseline, top, bottom selon ton besoin */
   }
