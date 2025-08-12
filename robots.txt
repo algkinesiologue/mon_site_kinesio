@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Empêche l'indexation des fichiers inutiles
+Disallow: /CNAME
