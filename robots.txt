@@ -3,3 +3,7 @@ Allow: /
 
 # Empêche l'indexation des fichiers inutiles
 Disallow: /CNAME
+
+ User-agent: *
+Disallow: /images/code_deontologie.pdf
+
